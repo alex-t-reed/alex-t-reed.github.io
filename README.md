@@ -7,7 +7,11 @@ Biopsychologist turned developer with a B.S. in Biopsychology from UC Santa Barb
 ## 🧠 Background
 
 - **B.S. Biopsychology** — University of California, Santa Barbara, 2024
-- Research experience at the **UCSB Miller Memory Lab** (Memory, Money & Self study) and the **UCSB PADRES Lab**
+- Research experience across five UCSB labs — the **Miller Memory Lab** (memory & decision-making), 
+**Szumlinski Lab** (addiction neuroscience & mTOR/everolimus research), **PADRES Lab** (mental health 
+disparities in bilingual populations), **Social Cognitive Development Lab** (identity & intellectual 
+humility in children), and **Attention Lab** (sustained attention & stimulus discrimination). McNair 
+Scholar and SACNAS Scholar alumnus.
 - Presented research on mTOR activity and sucrose-seeking behavior as a **McNair Scholar**
 
 ---
