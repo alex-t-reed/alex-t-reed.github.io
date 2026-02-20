@@ -1,4 +1,4 @@
-# Hi, I'm Alex Reed Aparicio 👋
+# Hi, I'm Alex Reed 👋
 
 Biopsychologist turned developer with a B.S. in Biopsychology from UC Santa Barbara (2024). I'm drawn to projects that sit at the intersection of neuroscience, data, and software — from psychology experiment infrastructure to NLP tools and real-time visualizations.
 
