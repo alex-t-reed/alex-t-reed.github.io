@@ -1,15 +1,17 @@
-# Alex Reed — Portfolio
+# Alex Reed — Selected Projects
 
-A minimal portfolio focused on entry-level software engineering and relearning Python, JavaScript, and SQL.
+A personal portfolio targeting entry-level software engineering, with selected GitHub projects, Access Ingenuity contributions, and a UCSB B.S. in Biopsychology (2024).
 
-Built with semantic HTML and responsive CSS. No build step, external fonts, tracking, contact forms, or third-party scripts.
+## Design and behavior
 
-The page includes selected learning projects and LinkedIn as the sole external contact link. Includes a B.S. in Biopsychology from UCSB (2024) and selected Access Ingenuity automation and accessibility work. Contact details, location, other personal background, and other profile links are omitted. The source resume is not published.
+- UCSB-inspired navy (#003660) and gold (#FEBC11), neutral backgrounds, and a responsive editorial layout.
+- Five selected projects with repository links, a browser demo for Transcript Editor, and expandable scope notes.
+- Accessible language filters with pressed states and an announced result count. All projects remain visible without JavaScript.
+- No external fonts, analytics, tracking, contact forms, or third-party scripts.
+- LinkedIn is the contact method. The resume and private contact details are not included.
 
-## Local preview
+## Preview and publishing
 
-Run `python3 -m http.server 8000` and open `http://localhost:8000`.
+Run `python3 -m http.server 8000`, then open `http://localhost:8000`.
 
-## Publishing
-
-Hosted with GitHub Pages from the repository’s main branch and root directory.
+GitHub Pages serves the main branch from the repository root. No build step is required.
