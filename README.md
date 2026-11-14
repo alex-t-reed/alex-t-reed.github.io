@@ -1,34 +1,15 @@
 # Alex Reed — Portfolio
 
-Public portfolio at **https://alex-t-reed.github.io/**.
+A minimal portfolio focused on entry-level software engineering and relearning Python, JavaScript, and SQL.
 
-Built with semantic HTML, responsive CSS, and a small JavaScript project filter. No build step, external fonts, analytics, tracking, contact form, or third-party scripts.
+Built with semantic HTML and responsive CSS. No build step, external fonts, tracking, contact forms, or third-party scripts.
 
-## Purpose
-
-Help hiring teams understand Alex’s accessibility and research experience, review real projects, and discuss Bay Area opportunities. Target roles include accessibility specialist, junior data analyst, project coordinator/junior project manager, QA, technical support, and entry-level software development as a career-change goal.
+The page includes selected learning projects and LinkedIn as the sole external contact link. Personal background, location, employment history, education, and other profile links are omitted.
 
 ## Local preview
 
-```bash
-python3 -m http.server 8000
-```
+Run `python3 -m http.server 8000` and open `http://localhost:8000`.
 
-Open `http://localhost:8000`.
+## Publishing
 
-## Content
-
-- Existing public projects, with related NLP repositories grouped into one entry.
-- Both Access Ingenuity employment periods.
-- Honest career-change positioning and current Python, SQL, and JavaScript learning.
-- Professional contact through LinkedIn only.
-
-The source resume is intentionally not included: it contains private contact and location information.
-
-## GitHub Pages
-
-Publish the `main` branch from `/ (root)` in **Settings → Pages**. The repository is named `alex-t-reed.github.io` so the site uses the username domain.
-
-## What I learned
-
-I practiced organizing related projects into a coherent portfolio, using semantic HTML and responsive CSS, and communicating the difference between professional experience, learning projects, and career goals.
+Hosted with GitHub Pages from the repository’s main branch and root directory.
