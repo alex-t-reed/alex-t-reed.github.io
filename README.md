@@ -4,7 +4,7 @@ A minimal portfolio focused on entry-level software engineering and relearning P
 
 Built with semantic HTML and responsive CSS. No build step, external fonts, tracking, contact forms, or third-party scripts.
 
-The page includes selected learning projects and LinkedIn as the sole external contact link. Personal background, location, employment history, education, and other profile links are omitted.
+The page includes selected learning projects and LinkedIn as the sole external contact link. Includes a B.S. in Biopsychology from UCSB (2024) and selected Access Ingenuity automation and accessibility work. Contact details, location, other personal background, and other profile links are omitted. The source resume is not published.
 
 ## Local preview
 
